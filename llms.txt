@@ -1,0 +1,34 @@
+# PropTech Insights
+ 
+> PropTech Insights is a UK-based PropTech consulting firm founded by Michael Marciano, helping property finance brokerages and lenders (typically 10-100 person teams) move faster with clarity through technology strategy, workflow automation, and data consulting.
+ 
+## About
+- Founded by Michael Marciano, a PropTech strategist with 10+ years at the intersection of real estate and technology
+- Previously held a senior product role at EG (Estates Gazette), part of the CoStar Group
+- Host of the Pixel Chasing podcast covering PropTech and real estate technology
+- Based in the United Kingdom, serving the UK property market
+ 
+## Services
+- **Strategy**: Go-to-market strategies, technology roadmaps, and market positioning for PropTech companies
+- **Product**: Product roadmaps, feature prioritization, and user research for property technology platforms
+- **Data & Analytics**: Property data strategy, analytics implementation, and insight generation
+- **Workflow Automation**: Reducing administrative overhead for mortgage brokers and lenders through technology
+- **Technology Selection**: Helping firms evaluate and choose the right PropTech stack
+- **Market Advisory**: Navigating complex UK property market dynamics and regulatory landscape
+ 
+## Expertise Areas
+- UK property finance (mortgage brokers, lenders, bridging finance)
+- PropTech strategy and consulting
+- Real estate data and analytics
+- Workflow automation for property firms
+- Product management for built environment technology
+- Agency licensing and data acquisition (including Shared Property Data)
+- NPS improvement and customer experience in property tech
+ 
+## Contact
+- Website: https://www.proptechinsights.com
+- Email: Michael@PropTechInsights.com
+- Tagline: "Native to Real Estate // Fluent in Tech"
+ 
+## Links
+- [Website](https://www.proptechinsights.com)
