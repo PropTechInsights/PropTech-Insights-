@@ -1,0 +1,10 @@
+Open
+
+# Netlify redirects
+# Send single-page app section URLs to the homepage
+/about        /#about        301
+/services     /#services     301
+/clients      /#clients      301
+/contact      /#contact      301
+/faq          /#faq          301
+ 
